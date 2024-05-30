@@ -14,10 +14,18 @@
 </div>
 <h1>
 - 👋 Hi, I’m @iamritikbhardwaj
-- 👀 I’m interested in Full-stack Development , Programing and database managment
-- 🌱 I’m currently learning Springboot framwwork.
-- 💞️ I’m looking to collaborate on development project
-- 📫 How to reach me email address ritiklrt2@gmail.com.
+</h1>
+<h1>
+  - 👀 I’m interested in Full-stack Development , Programing and database managment
+</h1>
+<h1>
+  - 🌱 I’m currently learning Springboot framwwork.
+</h1>
+<h1>
+  - 💞️ I’m looking to collaborate on development project
+</h1>
+<h1>
+  - 📫 How to reach me email address ritiklrt2@gmail.com.
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
