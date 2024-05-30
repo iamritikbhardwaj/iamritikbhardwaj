@@ -18,7 +18,6 @@
 - 🌱 I’m currently learning Springboot framwwork.
 - 💞️ I’m looking to collaborate on development project
 - 📫 How to reach me email address ritiklrt2@gmail.com.
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
