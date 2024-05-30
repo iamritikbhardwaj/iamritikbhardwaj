@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @iamritikbhardwaj
-- 👀 I’m interested in Full-stack Development , Programing and database managment
-- 🌱 I’m currently learning Springboot framwwork.
-- 💞️ I’m looking to collaborate on development project
-- 📫 How to reach me email address ritiklrt2@gmail.com.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -25,7 +20,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 ---
-
+- 👋 Hi, I’m @iamritikbhardwaj
+- 👀 I’m interested in Full-stack Development , Programing and database managment
+- 🌱 I’m currently learning Springboot framwwork.
+- 💞️ I’m looking to collaborate on development project
+- 📫 How to reach me email address ritiklrt2@gmail.com.
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
