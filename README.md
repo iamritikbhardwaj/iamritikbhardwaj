@@ -27,9 +27,7 @@
 <h1>
   - 💞️ I’m looking to collaborate on MERN stack or Java-based development projects
 </h1>
-<h1>
-  - 📫 How to reach me: email address ritiklrt2@gmail.com
-</h1>
+<span>📫 Reach me at: <a href="mailto:ritiklrt2@gmail.com">ritiklrt2@gmail.com</a></span>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
