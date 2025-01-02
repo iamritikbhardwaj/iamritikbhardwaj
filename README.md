@@ -12,22 +12,22 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<h1>
+<h2>
   - 👋 Hi, I’m @iamritikbhardwaj
-</h1>
-<h1>
+</h2>
+<h2>
   - 👀 I’m interested in Full-stack Development, Programming, and Cloud Computing
-</h1>
-<h1>
+</h2>
+<h2>
   - 🌱 I’m currently learning Spring Boot framework and Microservices Architecture
-</h1>
-<h1>
+</h2>
+<h2>
   - 💼 I have 1.5 years of experience working with the MERN stack
-</h1>
-<h1>
+</h2>
+<h2>
   - 💞️ I’m looking to collaborate on MERN stack or Java-based development projects
-</h1>
-<span>📫 Reach me at: <a href="mailto:ritiklrt2@gmail.com">ritiklrt2@gmail.com</a></span>
+</h2>
+<h2>📫 Reach me at: <a href="mailto:ritiklrt2@gmail.com">ritiklrt2@gmail.com</a></h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
