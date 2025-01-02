@@ -13,20 +13,24 @@
   </a>
 </div>
 <h1>
-- 👋 Hi, I’m @iamritikbhardwaj
+  - 👋 Hi, I’m @iamritikbhardwaj
 </h1>
 <h1>
-  - 👀 I’m interested in Full-stack Development , Programing and database managment
+  - 👀 I’m interested in Full-stack Development, Programming, and Cloud Computing
 </h1>
 <h1>
-  - 🌱 I’m currently learning Springboot framwwork.
+  - 🌱 I’m currently learning Spring Boot framework and Microservices Architecture
 </h1>
 <h1>
-  - 💞️ I’m looking to collaborate on development project
+  - 💼 I have 1.5 years of experience working with the MERN stack
 </h1>
 <h1>
-  - 📫 How to reach me email address ritiklrt2@gmail.com.
+  - 💞️ I’m looking to collaborate on MERN stack or Java-based development projects
 </h1>
+<h1>
+  - 📫 How to reach me: email address ritiklrt2@gmail.com
+</h1>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
