@@ -22,7 +22,7 @@
   - 🌱 I’m currently learning Spring Boot framework and Microservices Architecture
 </h2>
 <h2>
-  - 💼 I have 1.5 years of experience working with the MERN stack
+  - 💼 I have been working with the MERN stack since 2023.
 </h2>
 <h2>
   - 💞️ I’m looking to collaborate on MERN stack or Java-based development projects
