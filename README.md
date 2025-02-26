@@ -28,6 +28,7 @@
   - 💞️ I’m looking to collaborate on MERN stack or Java-based development projects
 </h2>
 <h2>📫 Reach me at: <a href="mailto:ritiklrt2@gmail.com">ritiklrt2@gmail.com</a></h2>
+<h2>Phone: 9119060487</h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
