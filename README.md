@@ -37,6 +37,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src="https://www.svgrepo.com/show/355038/golang.svg" title="Golang" alt="Golang" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -53,7 +54,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" title="Tailwind" alt="Tailwind" width="40" height="40" />
   <img src="https://github.com/iamritikbhardwaj/emp/blob/8c140c572047704e8dff7f675164ec774abeb70c/Tux.svg" title="Linux" **alt="Linux" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/355038/golang.svg" title="Golang" alt="Golang" width="40" height="40"/>
 </div>
 ---
 
