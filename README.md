@@ -19,13 +19,13 @@
   - 👀 I’m interested in Full-stack Development, Programming, and Cloud Computing
 </h2>
 <h2>
-  - 🌱 I’m currently learning Spring Boot framework and Microservices Architecture
+  - 🌱 I’m currently exploring Go and Microservices Architecture
 </h2>
 <h2>
   - 💼 I have been working with the MERN stack since 2023.
 </h2>
 <h2>
-  - 💞️ I’m looking to collaborate on MERN stack or Java-based development projects
+  - 💞️ I’m looking to collaborate on MERN stack or Go-based development projects
 </h2>
 <h2>📫 Reach me at: <a href="mailto:ritiklrt2@gmail.com">ritiklrt2@gmail.com</a></h2>
 <h2> Phone:<a href="https://wa.me/9119060487"> 9119060487</a></h2>
@@ -53,6 +53,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" title="Tailwind" alt="Tailwind" width="40" height="40" />
   <img src="https://github.com/iamritikbhardwaj/emp/blob/8c140c572047704e8dff7f675164ec774abeb70c/Tux.svg" title="Linux" **alt="Linux" width="40" height="40"/>
+  <img src="https://myactivitycrmbucket.s3.us-east-1.amazonaws.com/airTicketdocgolang-svgrepo-com.svg" title="Golang" alt="Golang" width="40" height="40"/>
 </div>
 ---
 
