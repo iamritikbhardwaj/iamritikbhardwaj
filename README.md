@@ -22,7 +22,7 @@
   - 🌱 I’m currently exploring Go and Microservices Architecture
 </h2>
 <h2>
-  - 💼 I have been working with the MERN stack since 2023.
+  - 💼 I have been working with the MERN stack since 2023. 
 </h2>
 <h2>
   - 💞️ I’m looking to collaborate on MERN stack or Go-based development projects
