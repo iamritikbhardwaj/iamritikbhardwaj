@@ -145,5 +145,5 @@ I'm always looking to collaborate on:
 ---
 
 <div align="center">
-  <i>⭐️ From [iamritikbhardwaj](https://github.com/iamritikbhardwaj)</i>
+  ⭐️ **From** [iamritikbhardwaj](https://github.com/iamritikbhardwaj)
 </div>
