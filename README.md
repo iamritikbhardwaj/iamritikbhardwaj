@@ -141,9 +141,3 @@ I'm always looking to collaborate on:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamritikbhardwaj&layout=compact&theme=vision-friendly-dark&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
----
-
-<div align="center">
-  **From** [iamritikbhardwaj](https://github.com/iamritikbhardwaj)
-</div>
