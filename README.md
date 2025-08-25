@@ -9,7 +9,7 @@
   <a href="https://www.youtube.com/@ritiksingh8268">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://crm.tomatotrails.com/portfolio/">
+  <a href="https://portfolio-site-pearl-xi.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
