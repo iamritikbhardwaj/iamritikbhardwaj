@@ -122,7 +122,7 @@ I'm always looking to collaborate on:
 **Email:** [ritiklrt2@gmail.com](mailto:ritiklrt2@gmail.com)  
 **Phone:** [+91 9119060487](https://wa.me/9119060487)  
 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ritik-singh-10b333227)  
-**Portfolio:** [View my work](https://crm.tomatotrails.com/portfolio/)
+**Portfolio:** [View my work](https://portfolio-site-pearl-xi.vercel.app/)
 
 </div>
 
