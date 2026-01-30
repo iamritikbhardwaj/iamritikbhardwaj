@@ -23,7 +23,7 @@
 </h3>
 
 <p align="center">
-  I'm a backend & cloud developer with 2+ years of hands-on experience building scalable, production-grade systems using Go, Node.js, and SQL/NoSQL databases. I specialize in microservices architecture, DevOps automation, and secure API development.
+  I'm a backend & cloud developer with 3+ years of hands-on experience building scalable, production-grade systems using Go, Node.js, and SQL/NoSQL databases. I specialize in microservices architecture, DevOps automation, and secure API development.
 </p>
 
 <p align="center">
